@@ -39,19 +39,6 @@ public class UI {
         return playerNum;
     }
 
-
-    public void informMove(int pno) {
-
-    }
-
-    public void informEvent(int pno) {
-        //
-    }
-
-    public void endGame() {
-
-    }
-
     private String inputString(String msg) {
         System.out.println(msg);
         System.out.print(">> ");
