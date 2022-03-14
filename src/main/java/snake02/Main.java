@@ -19,8 +19,6 @@ public class Main {
 
         UI ui = new UI(snakeService,scanner);
         ui.display();
-
-
     }
 
 }
